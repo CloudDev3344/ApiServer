@@ -1,6 +1,6 @@
 {
-    "clientVersionCode": 1,
-    "gameFilesVersionCode": 2,
+    "clientVersionCode": 0,
+    "gameFilesVersionCode": 0,
     "URL_GAME_FILES" : "http://191.96.92.87/pluslauncher/game.rar",
     "URL_GAME_FILES_UPD" : "http://191.96.92.87/pluslauncher/files_upd.rar",
     "URL_FORUM": "http://191.96.92.87/",
